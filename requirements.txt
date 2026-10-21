@@ -1,0 +1,7 @@
+# Install a matching torch/torchvision build for your CPU or CUDA system.
+torch
+torchvision
+numpy
+matplotlib
+pandas
+notebook
